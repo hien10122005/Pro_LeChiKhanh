@@ -157,7 +157,7 @@ export default function App() {
                   <img 
                     src={avatarImg} 
                     alt="Lê Chí Khanh" 
-                    className="w-full h-full object-cover grayscale hover:grayscale-0 transition-all duration-700 hover:scale-105"
+                    className="w-full h-full object-cover transition-all duration-700 hover:scale-105"
                   />
                 </div>
                 <div className="text-center">
